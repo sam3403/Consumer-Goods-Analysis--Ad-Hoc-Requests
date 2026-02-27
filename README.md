@@ -43,7 +43,7 @@ The project uses:
 
 ## Links 🔗
 
-<a href="https://your-portfolio-website.com" target="_blank">
+<a href="https://codebasics.io/portfolio/Sam" target="_blank">
   <img src="https://img.shields.io/badge/MY%20PORTFOLIO-black?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
 </a>
 &nbsp;&nbsp;
